@@ -146,7 +146,7 @@ Read the [privacy policy](https://volath.com/privacy) and the [terms of service]
 
 ## Support
 
-- **Plans, licenses or setup:** [geral@riftweb.com](mailto:geral@riftweb.com), or the [contact form](https://volath.com/contact).
+- **Plans, licenses or setup:** [support@volath.com](mailto:support@volath.com), or the [contact form](https://volath.com/contact).
 - **Something broken?** Open an [issue in this repository](../../issues) with your system, the Volath version and what happened.
 
 ## License
@@ -156,6 +156,6 @@ Volath is proprietary software. The apps in this repository's releases are licen
 <div align="center">
 <br>
 
-Copyright © 2026 RIFT | Web Development. All rights reserved.
+Copyright © 2026 Volath. All rights reserved. &nbsp;·&nbsp; Powered by [RIFT](https://riftweb.com)
 
 </div>
