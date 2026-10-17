@@ -1,0 +1,80 @@
+VOLATH END USER LICENSE AGREEMENT
+
+Copyright (c) 2026 RIFT | Web Development ("the Provider"). All rights reserved.
+
+This agreement covers the Volath desktop application and its portable
+version, in the form published in this repository's releases ("the Software").
+The source code of the Software is not published and is not licensed to you.
+
+1. LICENSE
+   Subject to this agreement and to a valid Volath license key issued by the
+   Provider, you receive a personal, non-exclusive, non-transferable,
+   revocable right to download, install and use the Software on the computers
+   and for the number of users, projects and features that your license key
+   and plan allow. The key and plan are described in your customer account.
+
+2. WHAT YOU MAY NOT DO
+   You may not, and may not let anyone else:
+   a) copy or redistribute the Software, except for the copies needed to
+      install and back up the Software for your own permitted use;
+   b) sell, rent, lease, sublicense or otherwise make the Software or a
+      license key available to third parties;
+   c) share a license key beyond the seats, projects and installs your plan
+      allows, or work around the license checks, the install limits or the
+      expiry of a license;
+   d) reverse engineer, decompile or disassemble the Software, or try to
+      obtain its source code, except where the law gives you that right and
+      cannot be limited by contract;
+   e) remove or change any notice of ownership in the Software;
+   f) use the Software to break the law or the rights of others.
+
+3. LICENSE CHECKS AND UPDATES
+   The Software contacts the Provider's license server to check your license
+   key. It sends the key, an identifier of the installation, the version of
+   the Software and the number of active users, as described in the privacy
+   policy at https://volath.com/privacy. When a license has expired, been
+   revoked or exceeded its limits, the Software may restrict or stop working.
+   The Software may download updates from this repository.
+
+4. OWNERSHIP
+   The Software is licensed, not sold. The Provider keeps all rights, title
+   and interest in the Software, including all intellectual property. This
+   agreement gives you no right to the Volath name, logo or branding.
+
+5. YOUR DATA
+   The code, tickets and settings you work with stay on your own computer.
+   You are responsible for them, for the keys and tokens you enter in the
+   Software, and for the AI providers and Git hosts you connect, whose own
+   terms apply to your use of them.
+
+6. THIRD-PARTY COMPONENTS
+   The Software includes open source components that are licensed to you
+   under their own licenses, not under this agreement.
+
+7. NO WARRANTY
+   To the extent the law allows, the Software is provided "as is", without
+   warranty of any kind, express or implied, including fitness for a
+   particular purpose and non-infringement. AI-generated output can be wrong:
+   you must review code and pull requests before you merge or deploy them.
+
+8. LIMITATION OF LIABILITY
+   To the extent the law allows, the Provider is not liable for indirect,
+   incidental or consequential damages, loss of data, profit or business, or
+   for changes made to your repositories or systems by AI tools you run with
+   the Software. The Provider's total liability for any claim is limited to
+   the amount you paid for your license in the 12 months before the claim.
+   Nothing in this agreement limits liability that cannot be limited by law,
+   including your rights as a consumer.
+
+9. TERMINATION
+   This agreement ends if you break it, or when your license ends and is not
+   renewed. The Provider may revoke a license key that is used in breach of
+   this agreement. After termination you must stop using the Software and
+   delete your copies.
+
+10. GOVERNING LAW
+    This agreement is governed by the law of Portugal. Mandatory consumer
+    protection rules of the country where you live still apply to you.
+
+11. CONTACT
+    RIFT | Web Development, geral@riftweb.com.
